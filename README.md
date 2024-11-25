@@ -8,3 +8,6 @@ https://wonderful-troodon-923.notion.site/DAT661-Realtime-Individual-Design-Jour
 
 ## GitHub
 https://github.com/BerrenC02/RealTimeUOP
+
+## Itch.io Page
+https://berrenc.itch.io/dat661-realtime-project
