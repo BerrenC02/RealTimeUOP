@@ -11,3 +11,6 @@ https://github.com/BerrenC02/RealTimeUOP
 
 ## Itch.io Page
 https://berrenc.itch.io/dat661-realtime-project
+
+## Youtube Playlist
+https://www.youtube.com/playlist?list=PLV_kx3Xnd1GIQ4IOBEXo-2kagWL0NmQu3
