@@ -59,6 +59,7 @@
 		"Switch",
 		"XboxOne",
 		"XSX",
-		"HoloLens"
+		"HoloLens",
+		"Android"
 	]
 }
